@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Happy Birthday!",
-  description: "A special birthday countdown and celebration",
+  title: "Birthday Celebration Experience",
+  description: "A browser-based birthday celebration page with a countdown, animated effects, and a focused celebratory presentation.",
 }
 
 export default function RootLayout({ children }) {
